@@ -4,6 +4,7 @@ No arquivo chamado 'funcoes.py' onde está a função 'verifica_numero()' que ve
 ## Testes da função 'verifica_numero()' 
 foi utilizado a ferramenta 'pytest' que detecta automaticamente funções de teste e fornece mensagens de erro mais descritivas.
 as funções de testes também estão localizadas no arquivo 'funcoes.py', elas são: 
+
 def teste_numeros_impares_positivos():
     assert verifica_numero(243) == 'ímpar'
 
@@ -21,5 +22,5 @@ Para verificar se os testes estão ok é necessário digitar 'pytest funcoes.py'
 
 ## Arquivo 'main.py'
 No arquivo main foi importado a função 'verifica_numero()', que será utilizado para verificar se o número é par ou ímpar.
-Irá aparecer na tela um imput para o úsuario digitar um número, retornando então se o número é par ou ímpar.
+Irá aparecer na tela um input para o úsuario digitar um número, retornando então se o número é par ou ímpar.
  
