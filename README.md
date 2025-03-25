@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # fireBnB
 ## Tarefa 2: Mostrar os imóveis disponíveis
 
@@ -8,6 +7,8 @@
 - datetime: para poder trabalhar com as datas na hora da filtragem 
 
 - pytest: para realizar os testes
+
+- OS: Limpar a tela do programa
 
 ### Explicação modulo "app.py"
 Onde o programa está localizado, ele inicia a partir da função "main()"
@@ -38,7 +39,9 @@ criei 10 funções, separado por 5 grupos para realizar os testes. Todas as fun�
 ### Testando
 Para testar deve ter o pytest instalado, para instalalo é necessário rodar o comandos "pip install pytest".
 Depois de instalar o pytest, voce deve rodar o comando "pytest teste.py" no terminal.
-![alt text](image.png)
+
+
+
 para saber que o teste deu certo, no terminal deve estar como na imagem.
 
 #### funções teste:
