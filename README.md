@@ -40,6 +40,7 @@ criei 10 funções, separado por 5 grupos para realizar os testes. Todas as fun�
 Para testar deve ter o pytest instalado, para instalalo é necessário rodar o comandos "pip install pytest".
 Depois de instalar o pytest, voce deve rodar o comando "pytest teste.py" no terminal.
 
+![image](https://github.com/user-attachments/assets/911ea19a-24c6-4082-9268-ebaf0dbf9a0b)
 
 
 para saber que o teste deu certo, no terminal deve estar como na imagem.
