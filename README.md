@@ -12,7 +12,6 @@
 
 ### Explicação modulo "app.py"
 Onde o programa está localizado, ele inicia a partir da função "main()"
-
 ####funções:
 - main: função inicial do programa, irá chamar a tela para o usúario.
         Começo usando "os.system('cls')" para limpar a tela anterior,
@@ -41,7 +40,6 @@ criei 10 funções, separado por 5 grupos para realizar os testes. Todas as fun�
 Para testar deve ter o pytest instalado, para instalalo é necessário rodar o comandos "pip install pytest".
 Depois de instalar o pytest, voce deve rodar o comando "pytest teste.py" no terminal.
 
-![image](https://github.com/user-attachments/assets/8ea002fc-3231-4e34-a798-7d75d12b9f77)
 
 
 para saber que o teste deu certo, no terminal deve estar como na imagem.
