@@ -8,6 +8,8 @@
 
 - pytest: para realizar os testes
 
+- OS: Limpar a tela do programa
+
 ### Explicação modulo "app.py"
 Onde o programa está localizado, ele inicia a partir da função "main()"
 
