@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fireBnB
 ## Tarefa 2: Mostrar os imóveis disponíveis
 
@@ -71,8 +72,5 @@ para saber que o teste deu certo, no terminal deve estar como na imagem.
 
 - test_capacidade_data(): Essa função irá passar como parametro o número de capacidade de pessoas    
                           como 4, as datas '2025-08-15', '2025-08-20', e deve retornar o numero de imóveis disponiveis como 2
-
-
-
 
 
