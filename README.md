@@ -41,6 +41,7 @@ criei 10 funções, separado por 5 grupos para realizar os testes. Todas as fun�
 Para testar deve ter o pytest instalado, para instalalo é necessário rodar o comandos "pip install pytest".
 Depois de instalar o pytest, voce deve rodar o comando "pytest teste.py" no terminal.
 
+![image](https://github.com/user-attachments/assets/911ea19a-24c6-4082-9268-ebaf0dbf9a0b)
 
 
 para saber que o teste deu certo, no terminal deve estar como na imagem.
@@ -76,5 +77,7 @@ para saber que o teste deu certo, no terminal deve estar como na imagem.
 
 - test_capacidade_data(): Essa função irá passar como parametro o número de capacidade de pessoas    
                           como 4, as datas '2025-08-15', '2025-08-20', e deve retornar o numero de imóveis disponiveis como 2
+
+  obs: tive um problema com o pull request anterior, fiz a merge depois de terminar a atividade 02, dai a main ficou com o exercicio pronto. limpei a main e recriei o pul request, pelo que entendi agora deu certo kkk. Qualquer coisa me avisa, obg!
 
 
