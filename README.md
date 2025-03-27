@@ -12,7 +12,8 @@
 
 ### Explicação modulo "app.py"
 Onde o programa está localizado, ele inicia a partir da função "main()"
-####funções:
+
+#### funções:
 - main: função inicial do programa, irá chamar a tela para o usúario.
         Começo usando "os.system('cls')" para limpar a tela anterior,
         depois chamo a função "exibir_nome_programa()". Depois solicito ao usuario entrada de dados, uso o "try" para validar as informações e tambem uso as variaveis "quantidade_pessoas", "data_entrada" e "data_saida" para receber os dados informados pelo usúario.

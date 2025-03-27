@@ -41,7 +41,7 @@ def test_data_saida_reservada_comeco():
     imoveis_disponiveis = verifica_imovel_disponivel(1, '2025-08-12', '2025-08-16')
     assert  len(imoveis_disponiveis) == 4
 
-#testando pela capacidade e data
+#testando pela capacidade e dataa
 def test_capacidade_data():
     imoveis_disponiveis = verifica_imovel_disponivel(4, '2025-08-15', '2025-08-20')
     assert  len(imoveis_disponiveis) == 2

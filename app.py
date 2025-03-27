@@ -70,6 +70,7 @@ def main():
             print()
     else:
         print("\nNenhum imóvel disponível para o período e quantidade de pessoas informados.")
+        
 
 
 
