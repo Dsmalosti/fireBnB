@@ -77,4 +77,6 @@ para saber que o teste deu certo, no terminal deve estar como na imagem.
 - test_capacidade_data(): Essa função irá passar como parametro o número de capacidade de pessoas    
                           como 4, as datas '2025-08-15', '2025-08-20', e deve retornar o numero de imóveis disponiveis como 2
 
+  obs: tive um problema com o pull request anterior, fiz a merge depois de terminar a atividade 02, dai a main ficou com o exercicio pronto. limpei a main e recriei o pul request, pelo que entendi agora deu certo kkk. Qualquer coisa me avisa, obg!
+
 
